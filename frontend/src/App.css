@@ -1,0 +1,104 @@
+
+/* selects all stuff */
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  background-color: #e6e1ed;
+  margin: 0;
+  padding: 0;
+  height: 100vh
+
+}
+/* a3f0ea;  <-- ded colours*/
+
+/* timer shit */
+.timer {
+  padding-top: 50px;
+  font-size: 75px;
+}
+
+
+/* row shit  */
+
+.row {
+  width: 100%;
+  align-items: center;
+  padding-top: 15px;
+}
+
+/* leaderboard table */
+.bigdata {
+  width: 40%;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  justify-content: space-evenly;
+}
+
+.leaderboard-row {
+  display: block;
+  padding: 5px 0 ;
+}
+.leaderboard-row:first-child{
+  margin-top: 0;
+  background-color: #FFD700;
+}
+
+.leaderboard-row:nth-child(2) {
+  background-color: #C0C0C0;
+}
+.leaderboard-row:nth-child(3) {
+  background-color: #f0953c;
+}
+/* .leaderboard-row:nth-child(even) {
+  background-color: #f8f6ff;
+} */
+
+.leaderboard-row div {
+  font-family: sans-serif;
+  display: inline-block;
+  width: 33.3%;
+  margin-bottom: 5px;
+  background-color: transparent;
+}
+
+.table-header h2 {
+  display: inline-block;
+  width: 33.3%;
+  background-color: #6c7ae0;
+  color: white;
+  margin: 0;
+  padding-bottom: 5px;
+}
+
+.table-header h2:first-child {
+  border-top-left-radius: 7px
+}
+
+.lasth2 {
+  border-top-right-radius: 7px
+}
+
+.last-updated {
+  text-align: right;
+  margin-top: 10px
+}
+
+
+/* chart shit */
+.chart {
+  width: 45%;
+  display: inline-block;
+  vertical-align: top;
+  justify-content: space-evenly;
+  margin-left: 15px;
+
+}
+
+h1 {
+  margin-bottom: 5px;
+}

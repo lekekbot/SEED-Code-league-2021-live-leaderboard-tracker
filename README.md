@@ -3,9 +3,9 @@
 This tracker was used to track the progress of the competitors score. The app was used during the SEED Code League 2021.
 
 ## Contributors:
-- Bryan Goh
-- Tan Yu Hoe
-- Chai Pin Zheng
+- [Bryan Goh](https://github.com/lekekbot)
+- [Tan Yu Hoe](https://github.com/TYH71)
+- [Chai Pin Zheng](https://github.com/Ducksss)
 
 ## How to use:
 

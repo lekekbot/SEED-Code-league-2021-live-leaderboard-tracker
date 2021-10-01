@@ -12,15 +12,17 @@ This tracker was used to track the progress of the competitors score. The app wa
 ## How to use:
 
 - frontend:
-```$ cd frontend
-npm i
-npm start
+```
+$ cd frontend
+$ npm i
+$ npm start
 ```
 
 - backend:
-```$ cd backend
-npm i
-node index.js
+```
+$ cd backend
+$ npm i
+$ node index.js
 ```
 
 ### Why didn't I use nodemon for backend:

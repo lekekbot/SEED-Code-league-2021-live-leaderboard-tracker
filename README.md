@@ -1,6 +1,9 @@
 # SEED Code league 2021 live leaderboard tracker
 
+![image](https://user-images.githubusercontent.com/53009140/135600545-50f22767-efd1-4add-81c3-2fc1e1370810.png)
+
 This tracker was used to track the progress of the competitors score. The app was used during the SEED Code League 2021.
+
 
 ## Contributors:
 - [Bryan Goh](https://github.com/lekekbot)
